@@ -39,7 +39,6 @@ def writefile(carlist):
 
 
 def validate(carlist):
-
     price = ["vhigh", "high", "med", "low"]
     maint = ["vhigh", "high", "med", "low"]
     doors = ["2", "3", "4", "5more"]
